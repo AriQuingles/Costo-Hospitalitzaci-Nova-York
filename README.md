@@ -66,7 +66,7 @@ El projecte s'ha desenvolupat en aquestes fases:
   Llicència MIT.
 - `requirements.txt`  
   Dependències mínimes per executar el notebook.
-- `docs/Part_I_seleccio_conjunt_dades.pdf` *(opcional però recomanat)*  
+- `docs/Part_I_seleccio_conjunt_dades.pdf` 
   Document de la Part I del projecte.
 
 ### Fitxers de dades derivats
