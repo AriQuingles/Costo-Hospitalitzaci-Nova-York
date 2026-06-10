@@ -1,8 +1,10 @@
 # Qui concentra més cost hospitalari a Nova York i per què?
 
 Projecte final de visualització de dades basat en el conjunt **SPARCS – Hospital Inpatient Discharges (de-identified), 2024**.
+
 Video: 
-Visualització: 
+
+Visualització: <div class="flourish-embed flourish-chart" data-src="story/3699030"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/story/3699030/thumbnail" width="100%" alt="visualization" /></noscript></div>
 
 ## Resum del projecte
 Aquest projecte analitza **qui concentra més cost hospitalari a Nova York i per què**, combinant una perspectiva:
