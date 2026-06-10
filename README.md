@@ -2,7 +2,7 @@
 
 Projecte final de visualització de dades basat en el conjunt **SPARCS – Hospital Inpatient Discharges (de-identified), 2024**.
 
-Video: 
+Video: https://drive.google.com/drive/folders/1n3pz8Ert-9H9yoBUO47RtMmGUcSYlWmO?usp=sharing
 
 Visualització: https://public.flourish.studio/story/3699030/ 
 
